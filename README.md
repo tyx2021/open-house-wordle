@@ -1,1 +1,4 @@
 # open-house-wordle
+The game goes something like this:
+
+We show them a 360 interactive picture within the game in HCI, and they would need to guess where the picture was taken. They would type out the answer from the answer bank (a campus map will be provided with the names of the locations) and if they get the question wrong, the distance between the correct location and the intended location will be shown on screen so they know how close their guess is. When they get a question correct, they get +100 score, and when they get it wrong, they get - 10 score per wrong guess. Each question has up to 4 wrong guesses before they have to input the correct answer in the fifth guess. If they still don't manage to input the answer correctly on the fifth guess, then they will skip to the next question. The quiz will have 10 questions in total, and at the end of the game, their total score will be added up and displayed on screen. (e.g. Congratulations! You got - 500 points!)
